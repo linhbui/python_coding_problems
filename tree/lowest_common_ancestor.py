@@ -57,5 +57,5 @@ class Node:
             return left
         else if right != None:
             return right
-        else
+        else:
             return None
